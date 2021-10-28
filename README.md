@@ -7,8 +7,6 @@
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at martinheinz.dev as well as on Medium and DEV.to. -->
 
-### 📈 GitHub Stats
-
 <!--
 **itaowei/itaowei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Wei Tao's GitHub stats](https://github-readme-stats.vercel.app/api?username=itaowei&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itaowei&show_icons=true&theme=default)
