@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+- 🎓 I’m currently a PhD student at Fudan University. I received the B.S. degree in computer science from East China Normal University in 2018.
+- 📖 My research interests include: natural language generation, software analytics.
+
+<!-- ### ✍ Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at martinheinz.dev as well as on Medium and DEV.to. -->
+
+### 📈 GitHub Stats
 
 <!--
 **itaowei/itaowei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
