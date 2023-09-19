@@ -1,8 +1,9 @@
 ## Hello 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> -->
 
-- 🎓 I’m currently a PhD candidate at [Fudan University](https://www.fudan.edu.cn/). I received the B.S. degree in computer science from [East China Normal University](https://www.ecnu.edu.cn/) in 2018.
+- 🌱 I’m currently a PhD candidate at [Fudan University](https://www.fudan.edu.cn/). I received the B.S. degree in computer science from [East China Normal University](https://www.ecnu.edu.cn/) in 2018.
 - 📖 My research interests include: intelligent software maintenance, LLM-based agent, natural language generation.
+- 🎓 Graduating in June 2024, actively seeking research positions.
 
 <!-- ### ✍ Blog & Writing
 
@@ -14,7 +15,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
