@@ -2,7 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> -->
 
 - 🎓 I’m currently a PhD candidate at [Fudan University](https://www.fudan.edu.cn/). I received the B.S. degree in computer science from [East China Normal University](https://www.ecnu.edu.cn/) in 2018.
-- 📖 My research interests include: natural language generation, software analytics.
+- 📖 My research interests include: intelligent software maintenance, LLM-based agent, natural language generation.
 
 <!-- ### ✍ Blog & Writing
 
@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itaowei&show_icons=true&theme=default)
+-->
+
+
