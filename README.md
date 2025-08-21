@@ -1,7 +1,9 @@
 ## Hello 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> -->
 
-- 📖 Research interests: intelligent software evolution, LLM-based agent, and spoken dialogue interaction.
+📖 Research interests: intelligent software evolution, LLM-based agent, and spoken dialogue interaction.
+
+More info can be found in [itaowe.com](https://itaowe.com)
 
 <!-- ### ✍ Blog & Writing
 
