@@ -1,8 +1,7 @@
 ## Hello 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> -->
 
-- 🎓 I received my Ph.D. degree from [Fudan University](https://www.fudan.edu.cn/). Before going to Fudan, I received the B.S. degree in computer science from [East China Normal University](https://www.ecnu.edu.cn/).
-- 📖 My research interests include: intelligent software evolution, LLM-based agent, and spoken dialogue interaction.
+- 📖 Research interests: intelligent software evolution, LLM-based agent, and spoken dialogue interaction.
 
 <!-- ### ✍ Blog & Writing
 
